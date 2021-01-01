@@ -1,0 +1,15 @@
+{
+    "name": "Joke",
+    "short_name": "Joke",
+    "start_url": "/",
+    "display":"standalone",
+    "background_color": "#686de0",
+    "description": "joke Generator",
+    "icon":[
+        {
+            "src":"emo.png",
+            "size":"192x192",
+            "type":"png"
+        }
+    ]
+}
